@@ -1,0 +1,6 @@
+﻿% "numero_licence h m s pointsVert pointsMontage" ou "numero_licence" si abandon
+licence001 1 15 23 0 1
+licence002 1 15 23 10 0
+licence003 1 15 28 5 2
+licence004
+licence005 1 18 00 0 5
